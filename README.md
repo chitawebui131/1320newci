@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/chitawebui131/1320newci/actions/workflows/node.js.yml/badge.svg)](https://github.com/chitawebui131/1320newci/actions/workflows/node.js.yml)
+
 # example-app-nodejs-backend-react-frontend
 
 > This is an example app created for the blog post '[What is a good directory structure for a monorepo with a Node.js back end and React front end?](https://simonplend.com/what-is-a-good-directory-structure-for-a-monorepo-with-a-node-js-back-end-and-react-front-end/)'.
